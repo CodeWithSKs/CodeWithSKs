@@ -1,10 +1,10 @@
-# 🚀 Welcome to @DevKrishlay - Your Coding Journey Starts Here! 💻
+# 🚀 Welcome to @CWSKs - Your Coding Journey Starts Here! 💻
 
 <div align="center">
   <img src="file_00000000d24c61f8870466bcb8d119d0.png" width="300"/>
   
   <h2 style="color: #00ff41; font-weight: bold; margin-top: 20px;">
-    Hey, I'm Krishlay (aka <code>Krishlay Developer</code>) 👋
+    Hey, I'm Krishlay (aka <code>@CWSKs</code>) 👋
   </h2>
 <h3>Check out my Website:<br>
 <a href="https://krishlaydev.github.io/Krish/">https://krishlaydev.github.io/Krish/</a> </h3>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 About @DevKrishlay
+## 🎯 About @CWSKs
 
 **Hey there!** I'm here to help you master programming step by step, making complex coding concepts simple and fun to learn. Whether you're just starting out or looking to level up your skills, this channel breaks everything down into bite-sized pieces that actually make sense.
 
@@ -30,16 +30,16 @@ Join our growing community of devs who support each other, share wins, and ask q
 <div align="center">
   <h3 style="color: #00ff41;">🌐 Connect With Me</h3>
   
-  <a href="https://youtube.com/@DevKrishlay" target="_blank">
+  <a href="https://youtube.com/@CWSKs" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%40DevKrishlay-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
   </a>
-  <a href="https://instagram.com/krishlaydev" target="_blank">
+  <a href="https://www.instagram.com/cwsk__s" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40krishlaydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
   </a>
   <a href="mailto:krishlay2026@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-krishlay2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb5mRhe8kyyD5NvXdu3E" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbB2ORL5Ui2axF6HKa1s" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
   </a>
   <a href="https://www.chess.com/member/ExpertKrish" target="_blank">
@@ -101,8 +101,8 @@ Hey, I'm **Krishlay**, a Pythonic mind on a mission to **demystify machine learn
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishlayDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishlayDev&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSKs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSKs&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff" width="48%" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ Hey, I'm **Krishlay**, a Pythonic mind on a mission to **demystify machine learn
 ## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishlayDev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithSKs&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -137,15 +137,6 @@ Hey, I'm **Krishlay**, a Pythonic mind on a mission to **demystify machine learn
 
 ---
 
-## 🌐 Explore More
-
-<div align="center">
-  <img src="https://postimg.cc/F14DY5Rz/8c2f58e4" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 15px rgba(0, 255, 65, 0.3);"/>
-  <img src="https://postimg.cc/tZHtnW9w/442a44c3" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 15px rgba(0, 255, 65, 0.3);"/>
-</div>
-
----
-
 ## 💬 Message to Visitors
 
 <div style="text-align: center; background: linear-gradient(135deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; border-left: 4px solid #00ff41;">
@@ -154,7 +145,7 @@ Hey, I'm **Krishlay**, a Pythonic mind on a mission to **demystify machine learn
 
 📌 **Star a repo** • 🍴 **Fork it** • 💬 **DM me**
 
-Let's **build something legendary together.**
+Let's **build something legendary together**.
 
 </div>
 
@@ -170,6 +161,6 @@ Let's **build something legendary together.**
 
 <div align="center">
   <p style="color: #888; font-size: 14px;">
-    Made with ❤️ by KrishlayDev | Last updated: July 2025
+    Made with ❤️ by Krishlay | Last updated: July 2025
   </p>
 </div>
