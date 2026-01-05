@@ -1,3 +1,63 @@
+<!-- ===== KrisAIDev Profile Header ===== -->
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/your-github-id">
+
+<h1 align="center">Hi, I'm Kris 👋</h1>
+<p align="center">
+  AI Tools Educator • AI/ML Engineer at Heart • Building Smarter Developers
+</p>
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         alt="Gmail"
+         width="30"
+         height="30"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@krisaidev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+         alt="YouTube"
+         width="30"
+         height="30"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/krisaidev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+         alt="Instagram"
+         width="30"
+         height="30"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/KrisAIDev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
+         alt="GitHub"
+         width="30"
+         height="30"/>
+  </a>
+
+  <!-- Website -->
+  <a href="https://krisaidev.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"
+         alt="Website"
+         width="30"
+         height="30"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>AI is not magic. AI is leverage.</b><br>
+  Learn deeply. Build confidently. Grow consistently.
+</p>
+
+<!-- ===== End ===== -->
+
+
 # 🚀 Welcome to @CWSKs - Your Coding Journey Starts Here! 💻
 
 <div align="center">
