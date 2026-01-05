@@ -8,6 +8,69 @@
   AI Tools Educator • AI/ML Engineer at Heart • Building Smarter Developers
 </p>
 
+<p align="center" style="margin-top: 20px;">
+  <!-- Gmail -->
+  <a href="mailto:yourmail@gmail.com" target="_blank" style="margin: 0 14px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         alt="Gmail"
+         width="32"
+         height="32"
+         style="fill:#EA4335;" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@krisaidev" target="_blank" style="margin: 0 14px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+         alt="YouTube"
+         width="32"
+         height="32"
+         style="fill:#FF0000;" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/krisaidev" target="_blank" style="margin: 0 14px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+         alt="Instagram"
+         width="32"
+         height="32"
+         style="fill:#E4405F;" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/KrisAIDev" target="_blank" style="margin: 0 14px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
+         alt="GitHub"
+         width="32"
+         height="32"
+         style="fill:#181717;" />
+  </a>
+
+  <!-- Website -->
+  <a href="https://krisaidev.com" target="_blank" style="margin: 0 14px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"
+         alt="Website"
+         width="32"
+         height="32"
+         style="fill:#4285F4;" />
+  </a>
+</p>
+
+<p align="center">
+  <b>AI is leverage, not magic.</b><br>
+  Build faster. Think deeper. Focus on what matters.
+</p>
+
+<!-- ===== End ===== -->
+<!-- ===== KrisAIDev Profile Header ===== -->
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/your-github-id">
+
+<h1 align="center">Hi, I'm Kris 👋</h1>
+<p align="center">
+  AI Tools Educator • AI/ML Engineer at Heart • Building Smarter Developers
+</p>
+
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:yourmail@gmail.com" target="_blank">
